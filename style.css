@@ -84,7 +84,7 @@ body {
   justify-content: center;
 }
 .hero__container {
-  background-image: url(Images/mariana.webp);
+  background-image: url(Images/design/mariana.webp);
   background-size: cover;
   background-position: center;
   max-width: 1440px;
